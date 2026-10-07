@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Compras para o PC",
+    "slug": "fiap-cpad-checkpoint-2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark"
+  }
+}
